@@ -1,3 +1,5 @@
+// PARA INSTALAR DISCORD.JS V12: yarn/npm/pnpm i discord.js@12 --s
+
 const Discord = require("discord.js")
 
 // Si no habeis definido alguna de las 4 cosas agregadas os daria error.
