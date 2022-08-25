@@ -1,6 +1,7 @@
 const Discord = require("discord.js")
 
 // Si no habeis definido alguna de las 4 cosas agregadas os daria error.
+// En todos los comandos debe usar: exports.run = async (client, message, args, prefix) => {}
 exports.run = async (client, message, args, prefix) => {
 
 const embed = new Discord.MessageEmbed()
